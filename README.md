@@ -102,7 +102,7 @@ Project Link: [https://github.com/sn2606/Global-Temperature-Time-Series](https:/
 [license-url]: https://github.com/sn2606/Global-Temperature-Time-Series/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sn2606
-[decomp-arima]: Output\decomposition.png
-[forecast-arima]: Output\forecast.png
-[decomp-ssa]: Output\lat-components-grouped-sep.png
-[forecast-ssa]: Output\forecast-ssa.png
+[decomp-arima]: Output/decomposition.png
+[forecast-arima]: Output/forecast.png
+[decomp-ssa]: Output/lat-components-grouped-sep.png
+[forecast-ssa]: Output/forecast-ssa.png
