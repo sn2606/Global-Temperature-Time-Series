@@ -457,7 +457,7 @@ def get_contributions(X=None, s=None):
 # In[33]:
 
 
-s_contributions = get_contributions(X, S, False)
+s_contributions = get_contributions(X, S)
 r = len(s_contributions[s_contributions>0])
 r_characteristic = round((S[:r]**2).sum()/(S**2).sum(),4)
 forecast_orthonormal_base = {i:U[:,i] for i in range(r)}
